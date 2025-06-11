@@ -2,13 +2,13 @@ This is my solutions of tasks from Young Con contest
 
 Screenshots with conditions you can see below
 
-# [Task №1]([task_1_url]), OK
+# [Task №1][task_1_url], OK
 ![task_1]
-# [Task №2]([task_2_url]), OK
+# [Task №2][task_2_url], OK
 ![task_2]
 # Task №3 (didn't solve)
 ![task_3]
-# [Task №4]([task_4_url]), OK
+# [Task №4][task_4_url], OK
 ![task_4]
 
 
